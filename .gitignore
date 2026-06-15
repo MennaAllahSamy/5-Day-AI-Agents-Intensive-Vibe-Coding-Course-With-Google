@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Secrets / env
+.env
+.env.*
+*.key
+credentials.json
+service-account*.json
+
+# Notebooks
+.ipynb_checkpoints/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data / models (uncomment if large artifacts)
+# data/
+# *.ckpt
+# *.pt
