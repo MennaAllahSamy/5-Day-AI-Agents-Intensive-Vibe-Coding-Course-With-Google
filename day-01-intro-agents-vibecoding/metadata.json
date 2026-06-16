@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Healthy Meal Planner",
+  "description": "Plan healthy meals based on ingredients you have in your fridge and track your daily calories.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
