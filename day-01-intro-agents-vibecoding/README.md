@@ -1,6 +1,6 @@
 # Day 1 — Introduction to Agents & Vibe Coding
 
-> *Natural language as the new coding language*
+## *Natural language as the new coding language*
 
 ## 🎯 Focus
 - Level up from chatbots/text completion to autonomous agents
