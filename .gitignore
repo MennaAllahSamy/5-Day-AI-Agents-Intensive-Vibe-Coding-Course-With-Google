@@ -22,7 +22,16 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Data / models (uncomment if large artifacts)
+# Data/models (uncomment if large artifacts)
 # data/
 # *.ckpt
 # *.pt
+#Day1
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
