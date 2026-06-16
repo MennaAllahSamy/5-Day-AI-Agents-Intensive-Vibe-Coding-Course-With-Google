@@ -40,3 +40,5 @@ View your app in AI Studio: https://ai.studio/apps/02a7eea5-3d61-45c6-b942-87119
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+## Or you can just use this deployed website using Vercel
+https://5-day-ai-agents-intensive-vibe-codi-omega.vercel.app/
